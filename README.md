@@ -1,7 +1,7 @@
 # Controle de Acesso — Releases
 
-Repositório de **distribuição**. Contém apenas os instaladores publicados em
-[Releases](../../releases) — nenhum código-fonte.
+Repositório de **distribuição**. Contém os instaladores publicados em
+[Releases](../../releases).
 
 O aplicativo consulta este repositório para verificar atualizações
 (ver `updater.py`). Cada release publica um instalador por variante:
